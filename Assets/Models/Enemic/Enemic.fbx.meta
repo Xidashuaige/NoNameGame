@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: d74b4d24f765ae94bb9b9c3534f07822
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: //RootNode
+    100004: pCone1
+    100006: pCone10
+    100008: pCone2
+    100010: pCone3
+    100012: pCone4
+    100014: pCone5
+    100016: pCone6
+    100018: pCone7
+    100020: pCone8
+    100022: pCone9
+    100024: Weapon
+    400000: Body
+    400002: //RootNode
+    400004: pCone1
+    400006: pCone10
+    400008: pCone2
+    400010: pCone3
+    400012: pCone4
+    400014: pCone5
+    400016: pCone6
+    400018: pCone7
+    400020: pCone8
+    400022: pCone9
+    400024: Weapon
+    2100000: Enemy
+    2300000: Body
+    2300002: pCone1
+    2300004: pCone10
+    2300006: pCone2
+    2300008: pCone3
+    2300010: pCone4
+    2300012: pCone5
+    2300014: pCone6
+    2300016: pCone7
+    2300018: pCone8
+    2300020: pCone9
+    2300022: Weapon
+    3300000: Body
+    3300002: pCone1
+    3300004: pCone10
+    3300006: pCone2
+    3300008: pCone3
+    3300010: pCone4
+    3300012: pCone5
+    3300014: pCone6
+    3300016: pCone7
+    3300018: pCone8
+    3300020: pCone9
+    3300022: Weapon
+    4300000: pCone1
+    4300002: pCone2
+    4300004: pCone3
+    4300006: Weapon
+    4300008: Body
+    4300010: pCone10
+    4300012: pCone9
+    4300014: pCone8
+    4300016: pCone7
+    4300018: pCone6
+    4300020: pCone5
+    4300022: pCone4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enemy
+    second: {fileID: 2100000, guid: fb560cafef3cc0d4d8c0af128cf078e8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
