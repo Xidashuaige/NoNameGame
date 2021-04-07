@@ -1,2 +1,2 @@
 # NoNameGame
- A simple game from Unity
+ A simple multiplayer game from Unity
